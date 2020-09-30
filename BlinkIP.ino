@@ -1,6 +1,6 @@
 #define HOST_NAME "BLINK_IP"
-#define WIFI_SSID          "GW-FM-7390"
-#define WIFI_PASS          "3tr67333"
+#define WIFI_SSID          "SSID"
+#define WIFI_PASS          "Password"
 #define SERIAL_SPEED 9600
 #define STDLED     D4   // GPIO02 (& Console2 TX)
 #include <ESP8266WiFi.h>
